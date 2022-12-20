@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:layout_marginStart="4dp"
+    android:textSize="30sp">
+
+    <TextView
+        android:id="@+id/number_elem"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:gravity="center"
+        android:text="@string/dash"
+        android:layout_marginEnd="1dp"
+        android:textSize="13sp">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/actual_number"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/empty_black_border"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:text="@string/dash"
+        android:textSize="22sp"
+        android:layout_marginBottom="2dp">
+    </TextView>
+
+</LinearLayout>

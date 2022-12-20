@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/drawable/btn_disabled_bg.xml" value="0.2385" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/drawable/empty_black_border.xml" value="0.2385" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/drawable/empty_ones_thin_border_highlight.xml" value="0.2325" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.179" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/drawable/ic_baseline_arrow_right_24.xml" value="0.2385" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/drawable/ic_baseline_arrow_right_alt_24.xml" value="0.2385" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/drawable/ic_baseline_pause_24.xml" value="0.2385" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.179" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/drawable/ic_sharp_remove_24.xml" value="0.2385" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/drawable/reset_icon.xml" value="0.179" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/drawable/short_arrow_forward.xml" value="0.179" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/drawable/solid_green_black_border.xml" value="0.2385" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/drawable/solid_green_var.xml" value="0.2385" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/drawable/solid_yellow_black_border.xml" value="0.2385" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/layout/activity_array.xml" value="0.1" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/layout/activity_circular_queue_demo.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/layout/activity_normal_queue_demo.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/layout/activity_option.xml" value="0.264" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/layout/activity_sorting.xml" value="0.4" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/layout/activity_stack_demo.xml" value="0.2" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/layout/activity_welcome.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/layout/one_elem_sorting.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/layout/one_element.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/layout/one_element_queue.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/layout/one_news_panel.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidDevProject/DatastructuresandAlgorithmsDSAsimulator/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2385" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

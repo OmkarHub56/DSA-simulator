@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/actual_number"
+    android:layout_width="40dp"
+    android:layout_height="400dp"
+    android:background="@drawable/solid_green_var"
+    android:gravity="top"
+    android:orientation="horizontal"
+    android:textSize="22sp"
+    android:layout_marginBottom="2dp"
+    android:layout_marginEnd="1dp">
+</TextView>
