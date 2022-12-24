@@ -17,8 +17,9 @@ This is a android app that demonstrates some basic data structures and some sort
 https://play.google.com/store/apps/details?id=com.myfirstapp.datastructuresandalgorithmsdsasimulator
 
 
+
 #### Here is a quick Demo video (Youtube) for this app :
-[comment]: <> (To include youtube link after uploading video to youtube)
+https://www.youtube.com/watch?v=MBf9G7Z-boc
 
 
 #### Some ScreenShots of our app :
